@@ -85,6 +85,10 @@ public class Calculator implements ActionListener{
 		mainPanel.add(equals);
 		mainPanel.add(sqroot);
 		
+
+
+
+
 		
 		label.setText(" ");
 		northPanel = new JPanel();
